@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1071476535361",
+    "firebase_url": "https://fb-mea.firebaseio.com",
+    "project_id": "fb-mea",
+    "storage_bucket": "fb-mea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1071476535361:android:9e62c0173b90bf6d",
+        "android_client_info": {
+          "package_name": "com.entah.mea.finalproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1071476535361-qvndhkc7mbgli2lfuabs0b133ujulc8u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.entah.mea.finalproject",
+            "certificate_hash": "2ac78ffea5507e04c0581beb4bd60f14abfb8ef9"
+          }
+        },
+        {
+          "client_id": "1071476535361-8oh8t78bfc9olmtf663t5qk3coe2ivm3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBiU7Cyv-Hb1nC3qUcToNWW2BMhl9ZYqE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1071476535361-8oh8t78bfc9olmtf663t5qk3coe2ivm3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

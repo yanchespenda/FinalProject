@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">FinalProject</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Login</string>
+    <string name="action_sign_in_short">Login</string>
+    <string name="error_invalid_email">Email ga valid gan!</string>
+    <string name="error_invalid_password">Password terlalu pendek gan!</string>
+    <string name="error_incorrect_password">Email atau Password salah gan!</string>
+    <string name="error_field_required">Harus diisi gan!</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="title_activity_main">Final Project</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+</resources>
